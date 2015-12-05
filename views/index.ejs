@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html ng-app="thisApp">
+  <head>
+    <link rel='stylesheet' href='/stylesheets/bootstrap.css'/>
+    <link rel='stylesheet' href='/stylesheets/css/font-awesome.css'/>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+
+    <script src="/javascripts/angular.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/javascripts/index.js"></script>
+    <script src="/javascripts/jquery-2.1.4.min.js"></script>
+  </head>
+  <body ng-controller="thisController">
+    <input id="search" placeholder="Find a Game Changer" ng-model="search">
+    <i class="fa fa-search fa-3x"></i>
+    <div id="allfirms">
+        <div class="firm" ng-repeat="firm in database | filter:search track by $index" onclick="console.log('hey'); $(this).children('iframe').css('display','inline-block')">
+
+            <img class="col-xs-3 img-responsive" width="100" ng-src="{{firm.image}}">
+            <div class="col-xs-9">
+                <div>{{firm.Company}}</div>
+                <div>{{firm.Tagline}}</div>
+                <div>{{firm.Industry}}, {{firm.Subindustry}}</div>
+            </div>
+
+            <div>{{firm.Description}}</div>
+            <div>
+                <a href="{{firm.Website}}">{{firm.Website}}</a>
+            </div>
+            <iframe width="560" height="315" ng-if="($(this).parent().css('display')!='inline-block')&&(firm.SummaryVid != '')" style="display:none;" ng-click="
+
+            $(this).parent().css('display:none')
+
+            " src="{{firm.SummaryVid}}" frameborder="0"></iframe>
+            <div></div>
+    </div>
+    </div>
+
+  </body>
+</html>

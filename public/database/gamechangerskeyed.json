@@ -1,0 +1,474 @@
+{
+  "Accion Systems": {
+    "Tagline":"Revolutionary propulsion for satellites",
+    "Description":"Accion Systems Inc. is printing propulsion systems for satellites based on a proprietary ion beam technology. Our revolutionary new approach to in-space electric propulsion uses simple, modular thruster chips that can go anywhere on a satellite, in any number.\n\nWe got rid of bulky tanks and valves, explosive propellants, and expensive manufacturing techniques so that our customers can launch satellites that are not just affordable but also extremely capable. And we qualify for ride-share launches!",
+    "Website":"www.accion-systems.com",
+    "SummaryVid":"",
+    "Industry":"Space",
+    "Sub-industry":"Printing propulsion systems for satellites"
+  },
+  "Aclima": {
+    "Tagline":"We design and deploy environmental sensor networks that help people live aware\nOur networks employ actionable insights about our buildings, cities and communities.\n\nIn collaboration with our partners, we apply these insights to improve human and planetary health.",
+    "Description":"Through Aclima Sensory Science™, we can collect, process, and understand real-time data flowing from millions of sensors, enabling a level of environmental inquiry never before possible. Our networks make the invisible visible, providing an entirely new view of indoor and outdoor environments. Working closely with partners, we help translate this new body of knowledge into actionable insights that enable systemic change.",
+    "Website":"http://aclima.io/",
+    "SummaryVid":"https://www.youtube.com/watch?v=05MTqPufo7U",
+    "Industry":"Environment",
+    "Sub-industry":"Sensors for environmental enquiry"
+  },
+  "AltSchool": {
+    "Tagline":"AltSchool prepares students for the future \nthrough personalized learning experiences \nwithin micro-school communities.",
+    "Description":"Personalized, Whole-Child Learning\nOur inspiring teachers draw on students’ passions, talents and learning styles to create an education that cultivates the whole child -- academically, socially, and emotionally.\n\nCollaborative Community Involvement \nOur teachers work with parents and partners in the community to offer a stimulating academic experience, taking advantage of the best people and places that the local area has to offer.\n\nContinuous Research and Innovation \nWe use educational best practices and build innovative learning tools to continuously improve the AltSchool experience for students, parents, and teachers.\n\nAt each of our schools, we listen and adapt to the specific needs of our students, teachers and parents. We develop Personalized Learning Plans to cultivate each child academically, socially and emotionally. To that end, we work with partners in the community to offer a holistic experience that takes advantage of the best people and places that surrounding neighborhoods have to offer. All of this is made possible through the AltSchool supporting network, which works continuously to drive true innovation in education.",
+    "Website":"https://www.altschool.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=PvNrQt6fMQU",
+    "Industry":"Education",
+    "Sub-industry":"Personalised learning experiences"
+  },
+  "Bagaveev Corp": {
+    "Tagline":"Dedicated nanosatellite launcher company",
+    "Description":"3D printed rocket engines will power a nanosatellite launcher rocket.\n\nBagaveev Corporation is a startup backed by Adam Draper's Boost accelerator (boost.vc) \nand advised by Tim Draper (dfj.com) is designing, building and testing \n3D printed aerospike rocket engines that will power both lower and upper stages \nof a 3-ton, 35 foot rocket, designed to deliver 10-12 kg nanosatellites \nto low Earth orbit and Sun-synchronous orbit.\n\n3D printing rocket engines and pumps allows Bagaveev team to dramatically reduce \ndesign-build-test cycle to 6 weeks or less between successive engine designs.",
+    "Website":"http://bagaveev.com/",
+    "SummaryVid":"",
+    "Industry":"Space",
+    "Sub-industry":"3D printing rocket engines"
+  },
+  "Beyond Meat": {
+    "Tagline":"Go beyond meat with 100% plant-protein",
+    "Description":"Meat is actually pretty simple: amino acids, fats, carbohydrates, trace minerals and water combined to give us that familiar chew, resistance, and variation. But what if we are able to take these same inputs from plants and combine them to look and feel just like animal meat? What you’d have is meat for the future. Meat from plants.\n\nWe love meat so much that we decided to make it better. We relentlessly studied meat's core building blocks (amino acids, fats, trace minerals and carbs) then found them in natural plant-based sources and assembled them to capture the taste, texture, and nutrition of meat. We've evolved – isn't it time our meat did, too?\n\nWe believe there is a better way to feed the planet. Our mission is to create mass-market solutions that perfectly replace animal protein with plant protein. We are dedicated to improving human health, positively impacting climate change, conserving natural resources and respecting animal welfare. At Beyond Meat, we want to make the world a better place and we’re starting one delicious meal at a time",
+    "Website":"http://beyondmeat.com/",
+    "SummaryVid:"https://www.youtube.com/watch?v=yx3AkfwimEg",
+    "Industry":"Food",
+    "Sub-industry":"Plant-based meat products"
+  },
+  "Blue Origin": {
+    "Tagline":"The human need to explore is deep within all of us. Ancestors have sought out the unexpected and always looked to the stars. \nWe are at a place where we can pinoeer new horizons. \nThe earth is just our starting point.\nNow is the time to open the promise of space to all and lay the way for genrations to come.",
+    "Description":"Blue Origin is an American privately-funded aerospace developer and manufacturer set up by Amazon.com founder Jeff Bezos. The company is developing technologies to enable private human access to space with the goal of dramatically lower cost and increased reliability.",
+    "Website":"https://www.blueorigin.com",
+    "SummaryVid":"https://www.youtube.com/watch?v=-YJhymiZjqc",
+    "Industry":"Space",
+    "Sub-industry":"Private human space travel"
+  },
+  "Bossa Nova Robotics": {
+    "Tagline":"",
+    "Description":"Launched out of Carnegie Mellon University’s Robotics Institute in 2005, Bossa Nova Robotics focuses on developing robots for regular consumers. Formerly, the company specialized in creating interactive robotic toys for children. The company has now broadened its portfolio to encompass personal robots for the home.",
+    "Website":"",
+    "SummaryVid":"https://www.youtube.com/watch?v=qepASDhuToY",
+    "Industry":"Space",
+    "Sub-industry":"Personal robots for home"
+  },
+  "CareMessage": {
+    "Tagline":"Care, Better, Together",
+    "Description":"CareMessageTM offers healthcare organizations a powerful web platform to streamline care management and interactive mobile programs to improve health ",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Color Genomics": {
+    "Tagline":"Color Genomics is a concierge genetics company.\n\nUnderstand your genetic risk for breast and ovarian cancer.",
+    "Description":"Color analyzes 19 genes—including BRCA1 and BRCA2—to help you understand your risk of developing breast and ovarian cancer\n\nWe analyze 19 genes known to impact hereditary breast and ovarian cancer risk—including BRCA1 and BRCA2. Our custom software and expert team provide clinical-grade genetic testing at a fraction of the price.\n\nFrom physician-integrated ordering to personalized genetic counseling, Color is simplifying the experience of genetic testing.\n\nKnowledge of an increased genetic risk enables you to work with your healthcare provider to create a personalized plan designed to prevent or detect cancer at an earlier and more treatable stage.\n\nWe bring end-to-end, scalable software to healthcare.\nOur team of engineers from Google, Twitter, Stanford, MIT, Berkeley, Caltech, and other centers of excellence have built one of the world’s leading genetic software platforms—designed to enable high speed computation and accurate analysis of genetic data.\n\nOur bioinformatics pipeline, variant interpretation process and tracking system are powered by custom software that allows us to monitor a sample—from the moment a kit is purchased to the delivery of results—in the most efficient, reliable way possible.\n\nState-of-the-art tools help determine the classification of any variants identified according to American College of Medical Genetics and Genomics (ACMG) guidelines. We have performed extensive validation and consulted with leading scientists in clinical labs to confirm the high quality of our bioinformatics and variant analysis tools.\n\nThe blinded validation tests yielded 100% accuracy of the\nColor breast and ovarian cancer sequencing assay based\non a set of 176 SNVs, 83 indels, and 45 CNVs. Additional\nvalidation studies are ongoing to expand test results\nwith rare and technically challenging variants",
+    "Website":"www.getcolor.com",
+    "SummaryVid":"https://www.youtube.com/watch?v=BtX948gOmuY",
+    "Industry":"Health",
+    "Sub-industry":"Gene analysis for breast and ovarian cancer"
+  },
+  "CRISPR Therapeutics": {
+    "Tagline":"Transformative gene-based medicines for patients with serious diseases.",
+    "Description":"The mission of CRISPR Therapeutics is to develop transformative gene-based medicines for patients with serious diseases. Our therapeutic approach is to cure diseases at the molecular level using the breakthrough gene editing technology called CRISPR-Cas9.\n\nWith our multi-disciplinary team of world-renowned academics, drug developers and clinicians, we are uniquely positioned to translate CRISPR-Cas9 technology into human therapeutics. We have licensed the foundational CRISPR-Cas9 patent estate for human therapeutic use from our scientific founder, Dr. Emmanuelle Charpentier.\n\nWe are headquartered in Basel, Switzerland, our R&D operations are in Cambridge, Massachusetts and we have corporate offices in London, United Kingdom.",
+    "Website":"http://crisprtx.com/",
+    "SummaryVid":"http://www.bbc.com/news/health-34202250",
+    "Industry":"Health",
+    "Sub-industry":"Gene-editing"
+  },
+  "Cruise Automation": {
+    "Tagline":"Your Personal Chauffeur\n\nKeep your car. Just let it drive you. Cruise works with your existing vehicle to enhance your driving",
+    "Description":"The RP-1 is a highway autopilot. It controls your steering, throttle, and braking, making sure your car remains safely in its lane and a safe distance from the car in front of you.\n\nRetrofitting driverless technolog to your existing vehicle\n\nThe Cruise RP-1 sees the road and cars around you through the sensor pod mounted on the roof of your car. Through a combination of cameras, radar, and other measurement systems, the Sensor Pod relays what it detects back to the Cruise Computer to make real time decisions on where to go.\n\nThe Controls for the Cruise RP-1 seamlessly integrate into your car making it easy to engage and disengage the autopilot. A simple click of a button will enable the RP-1 to take control of your steering and speed. Just sit back and watch as the RP-1 guides your car down the road.\n\nIn the trunk of your car you will find the Computer - the brain of the RP-1. Taking up less than two feet of space and mounted off to the side, the Computer calculates exactly what it needs to do to keep you and your loved ones safe using state-of-the-art computer vision algorithms.\n\nVision:\nOur goal is to build a safer and more efficient world, and highway driving is our first target. Each year, 33,000 people die in car accidents and 90% of those are caused by human error. These are entirely preventable with great technology, and it's our mission to do something about it.",
+    "Website":"getcruise.com",
+    "SummaryVid":"",
+    "Industry":"Transport",
+    "Sub-industry":"Driverless cars"
+  },
+  "Cue": {
+    "Tagline":"What if you could hold the power of your health in your hands? You could recover from injuries quicker, elevate your mood and keep you immune system and bones strong by balancing your body.\n\nWith a tiny sample, Cue gives you more information about your body than was ever available.\n\nTestosterone, Influenza, Vitamin D, fertility, inflammation",
+    "Description":"Cue is a deep health tracker that lets you go beyond tracking steps and your weight.\n\nEasily access deeper information from your body.\n\nLoad a cartridge, add a sample, and get results on your phone.\n\nInformation is power\nTrack your body at the molecular level, proacticely tune your diet and exerise with the help of Cue's smart reccomendation.\n\nCue is a revolutionary new device that enables you to connect to your health at the molecular level. You can track 5 key health molecules: inflammation, vitamin D, fertility, influenza, and testosterone in just minutes, at home.\n\nIt’s easy to use. Slip one of the five tracking cartridges into Cue, which illuminates when it senses a cartridge and prompts the user to add a sample. Collect a sample with the included Cue Sample Wand, and slide it into the cartridge. Cue detects the presence of the Sample Wand, and automatically starts the analysis. After a few minutes, Cue delivers the information wirelessly to your smartphone. When the analysis is complete, Cue prompts you to remove the cartridge and dispose of it.",
+    "Website":"cue.me",
+    "SummaryVid":"https://www.youtube.com/watch?v=32YwVuiAgEg",
+    "Industry":"Health",
+    "Sub-industry":"Monitor your health at a molecular level"
+  },
+  "Dataminr": {
+    "Tagline":"Real-time information discovery",
+    "Description":"Dataminr transforms the Twitter stream and other public datasets into actionable signals, discovering must-know information in real-time for clients in Finance, the Public Sector, News, Security and Crisis Management.\n\nUsing powerful, proprietary algorithms, Dataminr instantly analyzes all public tweets and other publicly available data to deliver the earliest signals for breaking news, real-world events, off the radar context and perspective, and emerging trends.",
+    "Website":"https://www.dataminr.com/",
+    "SummaryVid":"",
+    "Industry":"Analytics",
+    "Sub-industry":""
+  },
+  "": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Deep Space Industries": {
+    "Tagline":"The harvest of space is going to be the biggest industrial transformation in human history.\n\nWe are asteroid miners - creating wealth and opportuntiy from space resources\n\nwe are suppliers:\nAir water and materials to build a new space economy\n\nwe are prospectors:\nseeking scouting, evaluating the resources of space",
+    "Description":"Who is DSI?\nDeep Space Industries is an international asteroid mining company, with primary offices in Silicon Valley, California and Luxembourg City, EU.\nBuilt on a philosophy of international cooperation, Deep Space Industries has assembled a world-leading team with unparalleled experience in asteroid geology, mining, spacecraft design, astrodynamics, and entrepreneurship.\nDeep Space Industries’ vision is one of unlimited resources, both in space and here on Earth.  The solar system has provided all the resources we could ever need, right here in our neighborhood. DSI will harvest, process and manufacture these resources, creating a reliable supply chain of products, fuel and building supplies in space.\n\nWhy are Asteroid Resources Important?\nDuring the formation of the Earth, as the planet cooled, heavy substances and important resources such as metals, sank to the inside of the planet.  This means that heavier elements, like metals, are rarely found in the Earth’s crust.\nMost mining operations exist at the sites of ancient meteorite impacts.  Mines in Africa, Canada, Australia and elsewhere are currently extracting asteroid resources, deposited by devastating impacts in the distant past.\nScientists believe that the asteroid belt contains the remnants of a planet that existed between the orbits of Mars and Jupiter.  For unknown reasons, this planet broke up into tiny pieces.  These planet pieces contain all the same things as the other rocky planets, but their resources are much easier to access since they are not trapped in the core of a planet.\n\nWhy Asteroid Mining?\nHuman expansion into the solar system has been severely limited by the expense and energy requirements of launching materials from Earth.  The availability of supplies and resources in space will fundamentally change the economics of space exploration and settlement.\nNear Earth Asteroids (NEAs) contain a wealth of useful materials such as water, metals and silicates.\nTo date, scientists and astronomers have discovered over 13,000 Near Earth Asteroids (NEAs).\nMany of these NEAs are energetically easier to reach than the Moon and are close enough to Earth that round-trip missions can be completed in as little as six months.\n\nFesibility?\nThe deep sea mining industry has pioneered robotic extraction methods that operate in harsh environments without human intervention.  Such systems are easily modified for use in space.\n",
+    "Website":"deepspaceindustries.com",
+    "SummaryVid":"https://www.youtube.com/watch?v=pIY_fmvFDhM",
+    "Industry":"Space",
+    "Sub-industry":"Mining asteroids for resources"
+  },
+  "Editas Medicine": {
+    "Tagline":"Unlocking the promise of genome editing to deliver life-changing medicines",
+    "Description":"Editas Medicine's mission is to translate its genome editing technology into a novel class of human therapeutics that enable precise and corrective molecular modification to treat the underlying cause of a broad range of diseases at the genetic level.\n\nThese recent advances have made it possible to modify, in a targeted way, almost any gene in the human body with the ability to directly turn on, turn off or edit disease-causing genes.\n\nHow it works:\nCRISPR (clustered, regularly interspaced short palindromic repeats)/Cas9 (CRISPR-associated protein 9) and TALENs (transcription activator-like effector nucleases) comprise novel gene editing methods that overcome the challenges associated with previous technologies. Early published research on CRISPR/Cas9, coupled with a growing body of work on TALENs, suggests the potential to pursue therapeutic indications that have previously been intractable to traditional gene therapy, gene knock-down or other genome modification techniques. The CRISPR/Cas9 system, the most recent and exciting approach to emerge, acts by a mechanism in which the Cas9 protein binds to specific RNA molecules. The RNA molecules then guide the Cas9 complex to the exact location in the genome that requires repair. Similarly, TALENs are proteins that can be custom programmed to bind essentially any DNA sequence of interest and to direct gene modification activities to specific targets in the genome. CRISPR/Cas9 and TALENs uniquely enable highly efficient knock-out, knock-down or selective editing of defective genes in the context of their natural promoters, unlocking the ability to treat the root cause of a broad range of diseases. ",
+    "Website":"http://editasmedicine.com/",
+    "SummaryVid":"",
+    "Industry":"Health",
+    "Sub-industry":"Gene-editing"
+  },
+  "epiBONE": {
+    "Tagline":"We grow bones from your own cells\n\n3D Model of the bone created, stem cell extracted and remodelled and then expanded in bioreactor to form the bone",
+    "Description":"Imaging & Stem Cell Extraction\nWe obtain precise 3D model of the anatomical defect from the patient’s CT scan. \nAt the same time we extract adult stem cells from the patient.\n\nGraft & bioreactor design\nUsing the 3D image, we design the patient specific graft and a custom-built bioreactor. \nWe expand the stem cells to obtain sufficient quantity.\n\nEpiBone Graft Maturation\nWe grow the bone graft inside the bioreactor which provides environment for bone formation. \nStem cells remodel into a personalized bone graft ready for implantation.\n\nBenefits:\nPerfect fit - gornwin the precise anatomical shape and size you need, without cutting bone from your body\nYour cells - made from your own cells for better integration, and without the possible complications of foreign body implantation\nIt's alive - the implanted bone graft is alive so it has the potential to continue growing and remodeling.",
+    "Website":"epibone.com",
+    "SummaryVid":"https://www.youtube.com/watch?v=3_lk4Q-2x8I",
+    "Industry":"Health",
+    "Sub-industry":"Grow bones from your own stem cells"
+  },
+  "Flatiron Health": {
+    "Tagline":"The new standard for oncology technology. Powering the most advanced cloud-based software to support the continuum of cancer care.",
+    "Description":"Flatiron Health organizes the world’s oncology information and makes it useful for patients, physicians, life science companies and researchers.\n\nToday, our software connects community practices and cancer centers on a common technology infrastructure to address key healthcare challenges. Our goal is to power a national benchmarking and research network to transform how cancer care is delivered.\n\nWe should be building knowledge and data on every single cancer case - and storing that data on acommon platform whereby all cancer centres talk to eachother.\nWe can acheive this at scale and improve cancer care by organising oncology data through technology...Software as a drug. \n\nOncologyCloud connects cancer centres on a common platform, and that way that datacan be used more efficeintly...advanced analytics to leverage existing data and enhance patient comms and engagement. Lifesciences companies and researchers can then use this data to understand how this is being used in the real world and then provide personalised medicine and optimse it's use. Then physicians can view perosnalised content for each patient.",
+    "Website":"http://www.flatiron.com/",
+    "SummaryVid":"https://vimeo.com/110678063",
+    "Industry":"Health",
+    "Sub-industry":"Manage and extract cancer data"
+  },
+  "Flirtey": {
+    "Tagline":"Flirtey is the world's first autonomous aerial delivery company",
+    "Description":"\nReal-time delivery by flying robots. Anytime. Anywhere. It's delivery, but way better.",
+    "Website":"http://flirtey.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=XIqFvkBPvjs",
+    "Industry":"Transport",
+    "Sub-industry":"Drone delivery"
+  },
+  "Gamma2 Robotics": {
+    "Tagline":"The future of robotic security is here today.",
+    "Description":"Gamma 2 Robotics offers businesses and system integrators a security robot that is affordable, reliable and works in a variety of dynamic environments. Our advanced Cybernetic Brain with proprietary artificial intelligence empowers G2R robots to learn their environment. Reduce your operational security costs, enhance reliability of operations and add new services including:\nMobile video surveillance\nTemperature and humidity monitoring\nIntruder, fire, smoke, water, Gas and chemicals detection\nFire Suppression Options",
+    "Website":"http://www.gamma2robotics.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=jYDDDqOosts",
+    "Industry":"Robotics",
+    "Sub-industry":"Robotic security guards"
+  },
+  "General Fusion": {
+    "Tagline":"Rethink fusion:\nDiscover how innovation could deliver unlimited clean energy",
+    "Description":"Dr. Michel Laberge founded General Fusion with a singular focus to develop economically viable fusion energy. His key insight was realizing that Magnetized Target Fusion, with the aid of modern electronics, materials, and advances in plasma physics, could provide a faster, lower cost, and more practical path to fusion power.\n\nHarnessing the Sun’s Fuel\nFusion: the power of the sun. Harnessed here on earth, it would transform the world’s energy supply.  Fusion is clean, producing no pollution or greenhouse gas emissions, and fuel is abundant. Fusion is also safe: the process cannot runaway and produces no long-lived radioactive waste.\n\nHow Fusion Powers the Sun\nInside the sun's core, pressures are millions of times more than the surface of the earth, and the temperature reaches more than 15 million degrees C. Every second, this pressure and heat convert 600 million tons of hydrogen into helium, releasing a tremendous amount of heat and energy.\n\nFusion’s Fuel is Everywhere\nFusion energy is fueled by deuterium and tritium, isotopes which can be easily extracted from seawater and derived from lithium, in abundant supply.  There is enough to power the planet for hundreds of millions of years. The world’s seawater constitutes a 23 trillion-tonne reserve of deuterium, an isotope that is easily extracted. If fusion power plants were to generate all of today’s electricity, this seawater reserve would last over 65 billion years. Additionally, lithium is abundant and widely available in land and sea reserves sufficient enough for over 200 million years of fusion power plant-based electricity production.\n\n",
+    "Website":"http://www.generalfusion.com/",
+    "SummaryVid":"",
+    "Industry":"Environment",
+    "Sub-industry":"Harness the power of the sun"
+  },
+  "Glooko": {
+    "Tagline":"Improve Diabetes outcomes - unified platform for diabetes management",
+    "Description":"Glooko makes diabetes management easier.\n\nGlooko's mobile, cloud-based, and hardware-agnostic system strives to add efficiency and intelligent analytics to your diabetes management effort, whether you are a person with diabetes, clinician, or a disease management organization\n\nGlooko allows you to download your diabetes device data to your iOS or Android device, integrate food & lifestyle data, and share reports with your care team.",
+    "Website":"https://www.glooko.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=bREiKZI0H-A&feature=youtu.be",
+    "Industry":"Health",
+    "Sub-industry":"Manage diabetes data from your phone"
+  },
+  "Golden Spike Company": {
+    "Tagline":"Your Chance to Enable and Take Part in True Space Exploration.",
+    "Description":"The Golden Spike Company is an American space transport startup company chartered for business in Colorado with the objective to offer private commercial space transportation services to the surface of the Moon.",
+    "Website":"Website under construction:\nhttps://en.wikipedia.org/wiki/Golden_Spike_Company",
+    "SummaryVid":"https://www.youtube.com/watch?v=6hoSSmW27xs",
+    "Industry":"Space",
+    "Sub-industry":"Commercial/private travel to the moon"
+  },
+  "Hampton Creek Foods": {
+    "Tagline":"Create a world with better food. Eat well without even knowing it.\n\nQuest to eliminate eggs from the food supply chain!",
+    "Description":"Hampton Creek is a food technology company headquartered in San Francisco focused on finding new ways of utilizing plants in food products.\n\nThe company aims to use technology to make healthier food without trans fats and MSG. Hampton Creek's data scientists are actively weeding out billions of proteins from hundreds of thousands of plants to learn what could form the equivalent of a chicken's egg. The company is seeking to create the largest plant database in the world.\n\nHampton Creek’s value is in its multibillion-dollar opportunity to make the egg obsolete, replacing it with a plant-based formula that is cheaper, cholesterol-free and more humane\n\nEggs show up in all kinds of processed foods that we eat every day, like cookies, muffins, and mayonnaise. What’s the big deal about mayo, you might ask? Mayonnaise is a staggering $18.5 billion industry (and the place where 12 percent of eggs end up). Balk would share tale after tale of conversations with egg procurers from major food conglomerates with Tetrick. “I get it,�? they’d say, speaking about the cruelty and in-efficiency of our current egg supply, the risk of an Avian flu outbreak and its potential impact on the price of this necessary input, “but cage-free is too expensive.�?\n\nSo, the old friends started thinking – what if all those processed foods didn’t need eggs at all? Eggs provide many important properties to a product like the beloved chocolate chip cookie: structure, leavening, richness, color, and flavor. They contribute to thickening in sauces and mayo. These qualities make baked goods taste great. But, there are plant-based ingredients that have all of these properties, right? If they are cheaper to use, there’s a market opportunity there. As Balk puts it, “If there were a plant-based egg product that had the same taste and texture as normal eggs, but it was less expensive, that would meet a need consumers and food customers have that hasn’t been filled yet. That’s a huge market opportunity.�? The duo set out to find out exactly how big.\n\nBut the company sells itself on economics as much as on environmental stewardship. The ratio of energy input to food energy output for chicken-laid eggs is about 39-to-1, behind only beef and lamb farming. Hampton Creek’s plant products maintain a ratio of 2-to-1. That translates into direct cost savings: Its egg equivalents cost 39 cents a pound–almost half of its chicken-begat counterpart. As for the mayonnaise, the final product, mixed with lemon juice, vinegar and other ingredients, costs Whole Foods 10% less than regular mayo. ",
+    "Website":"https://www.hamptoncreek.com/",
+    "SummaryVid":"http://www.forbes.com/video/2867258849001/",
+    "Industry":"Food",
+    "Sub-industry":"Eliminate the need for eggs"
+  },
+  "Helion Energy": {
+    "Tagline":"Helion - The future of energy",
+    "Description":"Helion Energy is an American company developing a magneto-inertial fusion power technology called The Fusion Engine.\n\nWhy fusion?\nFusion is what powers our sun (which, in turn, created almost all the energy we harvest in other ways).  Other renewables, like wind and solar, indirectly harness the fusion energy of the sun.  This same process can be used here on Earth to generate clean energy without the transmission losses or unpredictability of solar energy.  In addition to being environmentally friendly, our Fusion Engine is inherently safe. \n\nWhy now?\nThe technology and engineering required for net-production fusion finally exists.  But the big government projects have either stalled or have spent billions of dollars chasing difficult-to-commercialize solutions.  By combining our years of experience in fusion, newly available electronics technologies, and a revolutionary design using cutting-edge physics, Helion is making a fusion engine 1,000 times smaller, over 500 times cheaper, and realizable 10 time faster than other projects.\n\nThrough a series of prototypes, Helion has demonstrated that fusion us now within reach. We aim to have a commercial plan operational in six years.",
+    "Website":"http://www.helionenergy.com/",
+    "SummaryVid":"",
+    "Industry":"Energy",
+    "Sub-industry":"Harness the power of the sun"
+  },
+  "Human Longevity": {
+    "Tagline":"Change the face of ageing\n\nUsing the combined power of our core areas of expertise—genomics, informatics, and stem cell therapies, we are tackling one of the greatest medical/scientific and societal challenges—aging and aging related disease.",
+    "Description":"Aging is the single biggest risk factor for virtually every significant human disease…\n\n…our goal is to extend and enhance the healthy, high-performance lifespan and change the face of aging. For the first time, the power of human genomics, informatics, next generation DNA sequencing technologies, and stem cell advances are being harnessed in one company, Human Longevity Inc., with the leading pioneers in these fields. Our goal is to solve the diseases of aging by changing the way medicine is practiced.\n\nIt’s not just a long life we’re striving for, but one which is worth living\n\n\"Between 1910 and 2010 improvements in medicine and sanitation increased the human lifespan by 50 percent from 50 to 75 years. Today with the emergence of exponential technologies such as those being pioneered and advanced by HLI we have the potential to meaningfully extend the lifespan even further\" - Peter Diamandes\n\n\"The global market for healthy human longevity is enormous with total healthcare expenditures in those 65 and older running well over $7 trillion. We believe that HLI’s unique science and technology, along with our business leadership, will positively impact the healthcare market with novel diagnostics and therapeutics.\"\n\n\"HLI is going to change the way medicine is practiced by helping to shift to a more preventive, genomic-based medicine model which we believe will lower healthcare costs. Our goal is not necessarily lengthening life, but extending a healthier, high performing, more productive life span.\"",
+    "Website":"http://www.humanlongevity.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=QwS-b-stG7o",
+    "Industry":"Health",
+    "Sub-industry":"Human longevity"
+  },
+  "Hyperloop Technologies": {
+    "Tagline":"Hyperloop is changing the way we think about transportation:\nWe are the company that is making Hyperloop a reality. Hyperloop Tech is the transportation innovation and solution for the future, creating efficient travel for commerce - for people, cargo and trade.",
+    "Description":"A new form of transformation...a full length tube between 2 destinations and then will send things really fast through them.\nPeople can get from LA - SF in 30 mins.\n750 miles p/hr.\n\nAt Hyperloop we build incredible pieces of advanced machinery. We are inventing the technology of the future of transportation and to make sure we get it right we have developed unique testing capabilities. \n\nWhether it is state of the art wind tunnels, levitation rigs or electromagnetic test stands our world-class engineering team has built them in record time. We’re building the 5th mode of transportation - right here, right now.",
+    "Website":"http://hyperlooptech.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=pIY_fmvFDhM",
+    "Industry":"Transport",
+    "Sub-industry":"Supersonic land transport"
+  },
+  "Impossible Foods": {
+    "Tagline":"We love meat. We love cheese. And for thousands of years we have relied on animals to make them. Impossible Foods has found a better way. We use plants to make the best meats and cheeses you’ll ever eat.",
+    "Description":"Impossible Foods is developing a new generation of delicious and sustainable meats and cheeses made entirely from plants. Our mission is to give people the enjoyment of food that comes from animals without the health and environmental drawbacks.\n\nWe look at animal products at the molecular level, then select specific proteins and nutrients from greens, seeds, and grains to recreate the wonderfully complex experience of meat and dairy products. For thousands of years we’ve relied on animals to transform plants into meat, milk, cheese and eggs. Impossible Foods has found a better way to make the foods you love, directly from plants.\n\nWhat is Impossible Foods doing?\n\nImpossible Foods is making delicious meats and cheeses directly from simple plant ingredients. Our foods have the irresistibly delicious taste and texture of animal products, but no cholesterol, hormones, antibiotics, or slaughterhouse contaminants – and require far less land, water and energy to produce.\n\nHow do you make your meats and cheeses?\n\nWe start with plants – such as grains, greens and beans – and separate proteins, fats, and other nutrients from each one, selecting those that give our foods desirable flavors and textures. We then combine these proteins with vitamins, amino acids, and fats, all from plants, to make our meats and cheeses.\n\nWhen will your first product be available?\n\nWe plan to introduce the Impossible burger — our first product — in 2016.\n\nWhere will I be able to purchase and eat an Impossible Burger?\n\nOur distribution plans for the first Impossible burgers are still in the works—but we will keep you posted. After we launch in the U.S., we plan to expand our production capacity and make the burgers as widely available as possible!\n\nHow is the Impossible Burger different from a veggie burger?\n\nVeggie burgers are great for those looking for an alternative to conventional meat, but not for true meat-lovers. We are creating uncompromising meats for people who love meat, directly from proteins and other ingredients found in plants. Our burgers will delight and satisfy meat lovers who are looking for the most delicious burger they can buy at the best value. We aim to deliver, without compromise, every pleasure that meat-lovers get from burgers – from the visual appearance and versatility of the raw meat, to the smell and sizzle during cooking, to the ultimate taste and texture of the burger.\n\nWith all of our products, we aim to delight, nourish and satisfy everyone who loves to eat meat and dairy foods. That’s why we’ve devoted ourselves to creating meats and cheeses from plants that will be every bit as delicious as the best products made from animals.",
+    "Website":"http://impossiblefoods.com/",
+    "SummaryVid":"",
+    "Industry":"Food",
+    "Sub-industry":"Plant-based meat products"
+  },
+  "Intarcia Therapeutics": {
+    "Tagline":"At Intarcia, our goal is to develop and commercialize drug therapies that deliver an improved therapeutic outcome while enhancing patients' quality of life.",
+    "Description":"A rapidly emerging biopharmaceutical company committed to developing innovative therapies that merge medicine with technology, and have the potential to transform therapeutic categories.\n\nWe focus our efforts on serious diseases that are prevalent and poorly controlled. Our near-term goal is to deliver a game-changing new level of freedom for a vast number of patients with type 2 diabetes. Making real differences in these two areas is our future and our passion.\n\nOnce or twice yearly usage. Doubles glucose reduction and triples weight-loss. \nUp to one year in a diabetes medicine in a single mathstick-sized rod.\nNo need for daily injections.\nPipeline of once a year medinces in chronix diseasons. \nArthritis...obesity...diabetes...\n",
+    "Website":"\n",
+    "SummaryVid":"https://www.youtube.com/watch?v=2FaDnCWld30",
+    "Industry":"Health",
+    "Sub-industry":"Once a year medicines for chronic diseases."
+  },
+  "Magic Leap": {
+    "Tagline":"Magic made real.\nYour new way to create/discover/learn/know/entertain/share/bring magic back into the world..\n",
+    "Description":"Magic Leap is a US startup company that is working on a head-mounted virtual retinal display which superimposes 3D computer-generated imagery over real world objects, by projecting a digital light field into the user's eye. It is attempting to construct a light-field chip using silicon photonics\n\nBut both Magic Leap and Microsoft's HoloLens are focusing on something different: \"Mixed reality\" or \"augmented reality\" (AR). These head-mounted devices use a passthrough camera to show you...the exact same room or environment you're already in. But then they seamlessly layer in computer-generated objects. Suddenly, a troll is sitting on the chair across the room, or a baby dragon is breaking through the wall.",
+    "Website":"http://www.magicleap.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=kw0-JRa9n94",
+    "Industry":"Augmented reality",
+    "Sub-industry":""
+  },
+  "Matternet": {
+    "Tagline":"The age of autonomous transport:\nMatternet ONE is te first smart drone for transportation. Send things through the aie- magically, with the tough of a button. Matternet ONE revolutionises last-mile logistics, transforming the way you access things locally.",
+    "Description":"Matternet ONE is exclusively designed for transportation. Its centrally-located payload makes it exceptionally easy to load and unload. Its unique architecture makes it light and strong enough to transport 1 kilogram over 20 kilometers on a single battery charge. Secure routes that adapt to weather, terrain and airspace allow Matternet ONE to fly autonomously beyond line of sight, without the need for a human pilot.\n\nMatternet ONE is so intuitive it can be flown by everyone. With just a few touches on our mobile app, this smart drone will self-fly between landing stations you’ve authorized. No pilot or expert needed\n\nMatternet’s cloud-based routing system does all the work for you. It guides the Matternet ONE along a secure route at low altitude – between 50-100 meters above ground – adjusting for inclement weather, avoiding tall buildings, mountains and restricted airspace\n\nMatternet ONE is built to be used around people. The guarded propellers, protected payload and encrypted network communications are designed for everything we could anticipate – the onboard parachute is designed for everything that we couldn’t.",
+    "Website":"https://mttr.net/",
+    "SummaryVid":"https://vimeo.com/28247681",
+    "Industry":"Transport",
+    "Sub-industry":"Delivery by drones"
+  },
+  "Modern Meadow": {
+    "Tagline":"At modern meadow, we believe in taking care ofn each other and the natural world.\n\nWe are developing cultured animal products with no animal slaughter and much lower use of land, water, energy and chemicals.",
+    "Description":"Our materials program is exploring fundamentally new ways to create sustainable animal materials.\n\nOur food prgogram is developing cultured products of the hghest quality in close collboations iwth renowned chefs.\n\nWhat does it mean to \"culture\" cells?\nFor millennia, many of the world’s favorite products have been “cultured�? - including beer, wine, yogurt, cheese, and bread. We use these same principles to nurture and feed animal cells, creating high-quality products without the animal sacrifice and environmental harms of factory farming. \nDo you use stem cells?\n\nNo. We start with healthy muscle and skin cells and we let them continue to grow and divide naturally. Stem cells are not needed.",
+    "Website":"www.modernmeadow.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=BYzt6vAj_Xg",
+    "Industry":"Food",
+    "Sub-industry":"Meet printed from amachine using stem cell technology"
+  },
+  "Moon Express": {
+    "Tagline":"We are blazing a trail to the moon to unlock its mysteries and resources for the benefit of life on earth and out future in space.",
+    "Description":"EIGHTH CONTINENT We believe it's critical for humanity to become a multi-world species and that our sister world, the Moon, is an eighth continent holding vast resources than can help us enrich and secure our future. The Moon is unique in that its surface has remained relatively constant over billions of years.\n\nRESOURCES  Most of the elements that are rare on Earth are believed to have originated from space, and are largely on the surface of the Moon. Reaching for the Moon in a new paradigm of commercial economic endeavor is key to unlocking knowledge and resources that will help propel us into our future as a space faring species.",
+    "Website":"http://www.moonexpress.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=erP8BUs4gyI",
+    "Industry":"Space",
+    "Sub-industry":"Commerical transportation to the moon"
+  },
+  "Mosaic Nutrition": {
+    "Tagline":"Customer nutritional supplements\n\nCreate your customer:\nMeal replacement shake o fit your needs and lifestyle\nProtein powder to improve your fitness\nVitamin stack to supplement your health",
+    "Description":"Custom supplements are part of the revolution occurring with personalized health, where we can customize the way we eat, drink, exercise, sleep and do just about everything. At Mosaic Nutrition, we think you should be able to customize your nutrition and create your own custom supplements. That's why we focus on custom meal replacement shakes and protein powders, and customized vitamin packs that are tailored to your unique needs and goals. As individuals, we're not born as a one-size-fits-all, so why should the food and nutrients you put into your body only be available this way? They don't have to! \n\nYou can begin customizing your nutrition and health today. Simply choose whether you'd like to focus on creating a custom meal replacement powder, custom protein powder, or a customized vitamin pack below. \n\nWe offer customized vitamin packs, protein powder or meal replacement shakes uniquely suited to your needs, goals and lifestyle.\nWe can guide you and offer vegan, gluten-free and paleo options.",
+    "Website":"https://mosaicnutrition.com/",
+    "SummaryVid":"",
+    "Industry":"Food",
+    "Sub-industry":"Customised food to sui your needs"
+  },
+  "O3B Networks": {
+    "Tagline":"O3b has built a next-generation satellite network, providing billions of people in 180 countries with low cost, high speed Internet and mobile connectivity",
+    "Description":"3b Networks is a global satellite services provider building a next-generation satellite network for telecommunications operators and Internet Service Providers, as well as enterprise customers and government departments and agencies, providing billions of consumers and businesses in nearly 180 countries with low cost, high speed Internet and mobile connectivity.\n \nThe O3b system combines the global reach of satellite with the speed of fiber. We focus on:\nHigh capacity\nFiber-like latency\nBandwidth that is significantly lower in cost.\n \nO3b‘s Medium Earth Orbit (MEO) satellites orbit at 8,062km above the Earth. From this low altitude, latency is dramatically reduced bringing it on par with a long haul fiber transmission. Operators can now consider satellite technology for applications that are latency sensitive.O3b’s constellation of satellites utilizes multiple spot beams, which significantly increase each satellite’s capacity and decrease the cost of bandwidth. Read more about our technology here.",
+    "Website":"http://www.o3bnetworks.com/",
+    "SummaryVid":"http://www.businesswire.com/news/home/20151006005537/en/O3b-Networks-Fastest-Growing-Satellite-Operator-History",
+    "Industry":"Network communication",
+    "Sub-industry":"medium Earth orbit satellite"
+  },
+  "OmniEarth": {
+    "Tagline":"Quantify the changing world.\nOmniEarth provides a constant stream of imagery and analytics from any location on Earth – on demand and over time.",
+    "Description":" \nAt OmniEarth, we view the world differently. We recognize that our Earth is a vibrant and interactive system and that modern global business requires a quantitative approach. We improve our subscribers’ ability to understand, manage and predict the world around them with advanced geoanalytics\n\nOmniEarth’s geo-analytics can help manage your resources - from understanding water consumption to gaining insight into the health of our forests. Satellite and aerial imagery, combined with weather information, population data and other independent datasets, form the basis of specialized algorithms that produce actionable insights for quick and accurate decision making. Viewing change over time gives decision makers the ability to identify overuse or abuse of assets and formulate effective action plans to save time, money and resources\n\nWATER BUDGET\nHaving an accurate and defensible water budget is critical for complying with state mandates, assessing budget-based-rating, and driving conservation efforts in areas experiencing extreme drought conditions. OmniEarth’s Water Resource Management product automates the budgeting process by incorporating water meter readings with local evapotranspiration rates and imagery analysis. Our product shows - with a high degree of confidence - expected water usage by parcel, and highlights heavy users. It’s now faster and easier than ever before to accurately and affordably assess individual water consumption and focus conservation efforts in response.",
+    "Website":"omniearth.net",
+    "SummaryVid":"https://www.youtube.com/watch?v=hOPnWD4fdmA",
+    "Industry":"Environment",
+    "Sub-industry":"Satelite data about the earth"
+  },
+  "One Medical Group": {
+    "Tagline":"Find A Doctor Who Cares About You\nAs a group of doctors, we listened to our patients and built a totally new medical group designed specifically to meet your needs. We are reinventing healthcare",
+    "Description":"One Medical Group challenges the notion that delivering high-quality, accessible health care is either unachievable or prohibitively expensive. In fact, we’re working to prove that just the opposite is possible — a system where quality care is affordable and available to everyone.\n\nTo bring this vision to life, we rely on people-centered design, smart application of technology, and a team of talented primary care providers who have the time and tools to make the right decisions. The integration of these elements allows us to offer a seamless experience that not only saves our patients time and money but also leads to better health outcomes and happier lives.",
+    "Website":"http://www.onemedical.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=YHjIqSd1nDU",
+    "Industry":"Health",
+    "Sub-industry":""
+  },
+  "Orbital Insight": {
+    "Tagline":"Understanding global and national trends through advanced image processing and data science at a petabye scale.",
+    "Description":"Orbital Insight designed computer systems to mine mountains of satellite imagery for indications of the future. It analyzes corn fields to predict annual crops, parking lots of retailers to forecast earnings and shadows cast by buildings in China to gauge the rate of construction.\n\nOrbital Insight is a Geospatial Big Data company leveraging the rapidly growing availability of satellite, UAV, and other geospatial data sources. Our goal is to understand and characterize socioeconomic trends at global, regional, and hyperlocal scales.\n\nUnderstand the big picture without owning your own satellite",
+    "Website":"http://orbitalinsight.com/",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":"Using AI to analyse satellite data"
+  },
+  "": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Oscar Health Insurance": {
+    "Tagline":"Smart, simple health insurance\n\nBetter care, lower cost\nWe’re revolutionizing health insurance through technology, data, and design.",
+    "Description":"Simplifying health care - personalised\n\nModern technology for modern care\n\nWe’re using technology to simplify the entire health insurance experience. You can use our app to talk to a doctor and get prescriptions without ever leaving home. Keep track of your health history with a timeline and earn rewards for staying active with a free Misfit step tracker.",
+    "Website":"https://www.hioscar.com/",
+    "SummaryVid":"https://www.youtube.com/watch?v=eBNEKu-dH3Q\n\nhttps://www.youtube.com/watch?v=tVDoxv6YOfk",
+    "Industry":"Health",
+    "Sub-industry":"Simpler, more personalised health insurance."
+  },
+  "Palantir Technologies": {
+    "Tagline":"Products built for a purpose",
+    "Description":"Ten years ago, we set out to create products that would transform the way organizations use their data. Today, our products are deployed at the most critical government, commercial, and non-profit institutions in the world to solve problems we hadn’t even dreamed of back then.\n\ndata-analytics company Palantir Technologies enables large institutions to integrate and analyze information from databases that may be scattered across countries, and even continents, into a single platform. Palantir has helped soldiers search for patterns in the placement of roadside bombs; government regulators investigate accounting fraud; and pharmaceutical researchers hunt for blockbuster new drugs.\n\nhe company worked to prevent terror attacks by helping the intelligence community more effectively analyze vast amounts of information — for example, by tracing connections among suspects under investigation. Palantir now produces software that is used across a wide range of sectors, helping organizations detect fraud, prevent cyber-attacks, drive operational planning and strategic decision-making, even track disease outbreaks. Its clients include leading institutions across governmental and commercial sectors, including the United States Department of Defense, the S.E.C., the C.I.A. and the F.B.I. ",
+    "Website":"https://www.palantir.com/",
+    "SummaryVid":"https://youtu.be/e6OebM0dQ8g",
+    "Industry":"Analytics",
+    "Sub-industry":""
+  },
+  "Planet Labs": {
+    "Tagline":"Our data, your creativity",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Planetary Resources": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Premise Data Corp": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Privateer Holdings": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Proteus Digital Health": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Psious": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Soylent": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "SpacePharma": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "SpaceX": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Spire": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Stemcentrx": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "SynCardia": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Thync": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Transatomic Power": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Tri Alpha Energy": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Veniam": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "Windward": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  },
+  "World View": {
+    "Tagline":"",
+    "Description":"",
+    "Website":"",
+    "SummaryVid":"",
+    "Industry":"",
+    "Sub-industry":""
+  }
+}

@@ -1,0 +1,74 @@
+@font-face{
+    font-family: custombarfont;
+    src: url(AvenirLTStd-Black.otf);
+}
+
+html, #search, body{
+    font: 14px custombarfont, sans-serif;
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+
+    background: whitesmoke;
+}
+
+#search{
+    padding:10px;
+    width:100%;
+    font-size:50px;
+
+    background: grey;
+
+    color:lightgrey;
+    outline:0;
+    box-shadow:none;
+    border: none;
+    -webkit-box-shadow: none;
+}
+
+.fa-search{
+    position:absolute;
+    right:30px;
+    top:20px;
+    color: lightgrey;
+}
+
+/* mobile optimised */
+@media screen and (max-width: 580px) {
+    #search {
+        font-size:20px;
+    }
+    .fa-search{
+        top:-100px;
+    }
+}
+
+.firm{
+    font-size: 15px;
+
+    position: relative;
+    background: #fff;
+
+    margin:5px;
+    display: inline-block;
+    width:100%;
+
+    text-align: left;
+}
+
+/* panel styling */
+
+/* panel styling */
+.firm > div{
+    padding:5px;
+}
+
+.firm > div:nth-child(1){
+    font-size:20px;
+}
+
+img .icon{
+    float:left;
+    position:relative;
+    background:black;
+}
