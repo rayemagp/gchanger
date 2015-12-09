@@ -92,86 +92,66 @@ db.connect(url, function(err,db){
 
         // Use json as data updating file
         var ReadJson = require("r-json");
+        var Scraper = require('google-images-scraper');
         var allfirms, allfirmscount;
         ReadJson(__dirname + "/public/database/gamechangers.json", function (err, data) {
 
-          //count number of firms
-          var count=0;
-          for(var prop in data) {
-            if (data.hasOwnProperty(prop)) {
-              ++count;
-            }
-          }
+              //count number of firms
+              var count=0;
+              for(var prop in data) {
+                if (data.hasOwnProperty(prop)) {
+                  ++count;
+                }
+              }
 
-          //update the data
-          allfirms = data;
-          allfirmscount= count;
+              //update the data
+              allfirms = data;
+              allfirmscount = count;
 
-          var i = 1;
-          var fillFirms = setInterval(function() {
+              var images = [];
+              var fi = 1;
+              var fillFirms = setInterval(function(){
 
-            //Check if the company exists
-            try {
-                var str = allfirms[i].Company;
-            }catch(err){var str = "";}
+                  if (fi > allfirmscount)
+                  clearInterval(fillFirms);
 
-            var google = require('google-images');
+                  console.log(allfirms[fi].Company);
+                  var url = allfirms[fi].Company;
 
-            //loop through ALL the firms
-            if (i < allfirmscount)
-            google.search(str,
-                function (err, images) {
-                  try {
-                      //update the database with new images or new firms
-                      //if not .jpg at the end don't pass a url
+                  var scraper = new Scraper({
+                      keyword: url,
+                      rlimit: 10	// 10 p second
+                  });
 
-                      //TODO: FIX THE IMAGE PROCESSING PROBLEM
-                      //run through 5 results to see which one returns a working link
-                      console.log(images);
-
-                      for (var j = 0 ; j < images.length; j++) {
-
+                  scraper.list(1).then(function (res) {
+                      var link = "";
+                      for(var j = 0;j<res.length;j++)
+                      {
                           $.ajax({
                               type: 'GET',
-                              url: images[j].url,
+                              url: res[j],
                               success: function() {
-                                  images[0].url = images[j].url;
+                                  link = res[j];
+                                  console.log(res[j]);
                               },
                               error: function() {
-                                  images[0].url = "";
-
+                                  link = "";
                               }
                           });
-                          console.log(images[j].url)
-                      }
 
-                      console.log(str);
-                      console.log(images[0].url);
-
-                      db.gamechangers.update(
-
-                          { _id: str },
+                          //break if link is empty
+                          //clear interval for this emitter
+                          if(link!="")
                           {
-                              $set: {
-                                  Company: str,
-                                  image: images[0].url,
-                              }
-                          },{upsert: true}
-                      );
-                      i++
-                  }
-                  catch (err) {
-                    i++;
-                  }
-                }
-            );
-            else{
-                clearInterval(fillFirms);
-            }
+                              break;
+                          }
 
-          },2000);
+                      }
+                  });
 
+                  fi++;
 
+              },5000);
         });
 
 
